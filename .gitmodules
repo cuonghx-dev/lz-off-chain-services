@@ -1,0 +1,6 @@
+[submodule "lz-executor/zexecutor"]
+	path = lz-executor/zexecutor
+	url = https://github.com/0xpaladinsecurity/zexecutor.git
+[submodule "lz-executor/lazer-executor"]
+	path = lz-executor/lazer-executor
+	url = https://github.com/LazerTechnologies/LayerZero-Executor.git
